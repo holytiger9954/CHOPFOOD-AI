@@ -1,0 +1,5 @@
+chop_csv/
+requirements.txt
+README_AI_STRUCTURE.txt
+*.pyc
+venv/
