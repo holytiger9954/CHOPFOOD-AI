@@ -1,4 +1,4 @@
-# 허성범 (Heo Sungbeom) - holytiger9954 포트폴리오
+# 허성범 포트폴리오 : 03-1_CHOP AI
 
 ## Intro
 
